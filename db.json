@@ -1,0 +1,35 @@
+{
+    "clients":[
+        {
+            "id": 12111A,
+            "name": "Juma Daniel",
+            "account": "Pessoal",
+            "status": "actualizado"
+        },
+		
+        {
+            "id": 12111B,
+            "name": "JumaJanuario",
+            "account": "Empresarial",
+            "status": "actualizado"
+        },
+        {
+            "id": 12111C,
+            "name": "Joel Gimo",
+            "account": "Pessoal",
+            "status": "actualizado"
+        },
+        {
+            "id": 12111D,
+            "name": "Bertrand Fleury",
+            "account": "Empresarial",
+            "status": "actualizado"
+        },
+        {
+            "id": 12111E,
+            "name": "Dred Miller",
+            "account": "360",
+            "status": "actualizado"
+        }
+	]
+}
